@@ -1,0 +1,15 @@
+[SCAN] 
+
+
+# for symmetry, choose 0 for isotropic and 1 for cubic or 2 for hexagonal. Other options will need to be added
+#for SrTiO3
+
+symmetry = 1
+
+M11 = 0.15
+
+M12 = 0.095
+
+M44 = 0.072
+
+M13 = 0.095

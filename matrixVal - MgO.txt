@@ -1,0 +1,15 @@
+[SCAN] 
+
+
+# for symmetry, choose 0 for isotropic and 1 for cubic or 2 for hexagonal. Other options will need to be added
+#for MgO
+
+symmetry = 1
+
+M11 = -0.32
+
+M12 = -0.08
+
+M44 = -0.105
+
+M13 = -0.08

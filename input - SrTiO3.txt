@@ -1,0 +1,19 @@
+[SCAN]
+
+refractiveIndexX =  2.3451
+#refractiveIndexZ = 2.0	
+
+photoelasticMatrix = 	
+	0.15	0.095	0.095	0	0	0 
+	0.095	0.15	0.095	0	0	0 
+	0.095	0.095	0.15	0	0	0 
+	0	0	0	0.072	0	0 
+	0	0	0	0	0.072	0 
+	0	0	0	0	0	0.072
+
+
+
+#directions to iterate over; please make sure pairsof x-dir and z-dir are input in same order
+
+
+zdir = 3 1 1
